@@ -1,1 +1,0 @@
-## This is just a test to see how codes of conducts work on github, either .md or .txt, no one knows until they learn, ignore this
